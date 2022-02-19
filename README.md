@@ -15,7 +15,7 @@ The following cities are included:
 | [Denver](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime)             | Yes           |                                     |
 | [Houston](https://www.houstontx.gov/police/cs/index-2.htm)                                       | No            | No crime data. Community Crime Maps |
 | [Los Angeles](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8)   | Yes           | Weekly                              |
-| NYC                                                                                              |               |                                     |
+| [NYC](https://opendata.cityofnewyork.us/)                                                        | Yes           | Quarterly                           |
 | Raleigh                                                                                          |               |                                     |
 | San Diego                                                                                        |               |                                     |
 | San Francisco                                                                                    |               |                                     |
