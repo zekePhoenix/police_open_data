@@ -13,8 +13,8 @@ library(lubridate)
 
 dc.url <- "https://opendata.arcgis.com/datasets/f9cc541fc8c04106a05a1a4f1e7e813c_4.geojson"
 
-crime <- geojson_sf(dc.url) %>% as_tibble()
+crime_dc <- geojson_sf(dc.url) %>% as_tibble()
 
-crime2 <- crime %>% 
+crime_dc2 <- crime %>% 
         mutate(REPORT_DAT = ymd_hms(REPORT_DAT))
  
