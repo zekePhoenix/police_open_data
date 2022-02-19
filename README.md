@@ -8,7 +8,7 @@ The following cities are included:
 
 | City                                                                                           | Has Open Data | Frequency of Update                 |
 |------------------------------------------------------------------------------------------------|---------------|-------------------------------------|
-| Augusta                                                                                        |               |                                     |
+| Augusta                                                                                        | No            |                                     |
 | [Atlanta](https://www.atlantapd.org/i-want-to/crime-data-downloads)                            | Yes           | Weekly                              |
 | Charlotte                                                                                      | Yes           | No crime data                       |
 | [Dallas](https://www.dallasopendata.com/browse?category=Public+Safety)                         | Yes           |                                     |
