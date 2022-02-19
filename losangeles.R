@@ -15,9 +15,9 @@ library(RSocrata)
 lapd.url.csv <- "https://data.lacity.org/resource/2nrs-mtv8.csv"
 lapd.url.json <- "https://data.lacity.org/resource/2nrs-mtv8.json"
 
-crime_lapd <- fromJSON(lapd.url.json) %>% as.data.frame()
+#crime_lapd <- fromJSON(lapd.url.json) %>% as.data.frame()
         
-crime_lapd <- read_csv(lapd.url,n_max = Inf)
+#crime_lapd <- read_csv(lapd.url,n_max = Inf)
 
 crime_lapd <- read.socrata(lapd.url.csv)
 
