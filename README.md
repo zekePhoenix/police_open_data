@@ -10,7 +10,7 @@ The following cities are included:
 |--------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------|
 | Augusta                                                                                                            | No            |                                      |
 | [Atlanta](https://www.atlantapd.org/i-want-to/crime-data-downloads)                                                | Yes           | Weekly                               |
-| Charlotte                                                                                                          | Yes           | No crime data                        |
+| [Charlotte](https://data.charlottenc.gov/search?groupIds=82e7ad57f9bd4443af251fe88442dd17)                         | Yes           | Violent crime data only              |
 | [Dallas](https://www.dallasopendata.com/browse?category=Public+Safety)                                             | Yes           |                                      |
 | [Denver](https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-crime)                               | Yes           |                                      |
 | [Houston](https://www.houstontx.gov/police/cs/index-2.htm)                                                         | No            | No crime data. Community Crime Maps  |
